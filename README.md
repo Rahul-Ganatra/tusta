@@ -91,7 +91,7 @@ python main.py
 
 ## 📄 Example Trade Log (`trade_log.txt`)
 ```
-2025-02-24 19:19:11,839 - SELL Trade | Exit Time: 1740085200000 | Exit Price: 98089.46 | RSI at Exit: 64.32744897154689
-2025-02-24 19:19:11,840 - SELL Trade | Exit Time: 1740146400000 | Exit Price: 98777.77 | RSI at Exit: 61.458536113089274
+2025-02-24 19:45:22,076 - SELL Trade | Exit Time: 1740085200000 | Exit Price: 98089.46 | RSI at Exit: 64.10197640955482
+2025-02-24 19:45:22,076 - BUY Trade | Entry Time: 1740175200000 | Entry Price: 95823.53 | RSI at Entry: 34.45641038121595
 ```
-✅ **Profit from this trade:** `98777.77 - 98089.46 = 688.31 USDT`
+✅ **Profit from this trade:** `98089.46 - 95823.53 = 2265.93 USDT`
