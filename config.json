@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "user_id": 1,
+      "buy_threshold": 30,
+      "sell_threshold": 70
+    }
+  ],
+  "binance": {
+    "BINANCE_API_KEY": "qxJrU3zdFBOsB6RUSPlVAhA0po45iXrVGSBKrLPh9cOgNprH1VssL41BBCuszJa4",
+    "BINANCE_SECRET_KEY": "MC4Ph76ndGaK6B1K7rj4HprNzzYlz6pqBAVkRVOzCZKKjfKa5cghaIXv34j2HYEr"
+  }
+}
