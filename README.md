@@ -76,10 +76,15 @@ python main.py
 
 ## 📊 How It Works
 1️⃣ **Loads API Credentials** securely from `.env`.
+
 2️⃣ **Fetches historical market data** from Binance.
+
 3️⃣ **Calculates RSI values** using `pandas-ta`.
+
 4️⃣ **Executes BUY/SELL trades** when RSI crosses the defined thresholds.
+
 5️⃣ **Logs all trade executions** into `trade_log.txt`.
+
 6️⃣ **Repeats every 60 seconds** to analyze market conditions.
 
 ---
